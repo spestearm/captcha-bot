@@ -1,0 +1,18 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "spestedev",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "canvafy": "^7.2.1",
+    "discord.js": "^14.17.3",
+    "dotenv": "^17.4.2",
+    "random-words": "^2.0.1",
+    "resthaven": "^0.0.3"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
